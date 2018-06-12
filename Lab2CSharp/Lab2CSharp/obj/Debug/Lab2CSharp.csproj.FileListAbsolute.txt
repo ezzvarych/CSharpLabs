@@ -1,0 +1,6 @@
+c:\users\пк\documents\visual studio 2012\Projects\Lab2CSharp\Lab2CSharp\bin\Debug\Lab2CSharp.exe.config
+c:\users\пк\documents\visual studio 2012\Projects\Lab2CSharp\Lab2CSharp\obj\Debug\Lab2CSharp.csprojResolveAssemblyReference.cache
+c:\users\пк\documents\visual studio 2012\Projects\Lab2CSharp\Lab2CSharp\bin\Debug\Lab2CSharp.exe
+c:\users\пк\documents\visual studio 2012\Projects\Lab2CSharp\Lab2CSharp\bin\Debug\Lab2CSharp.pdb
+c:\users\пк\documents\visual studio 2012\Projects\Lab2CSharp\Lab2CSharp\obj\Debug\Lab2CSharp.exe
+c:\users\пк\documents\visual studio 2012\Projects\Lab2CSharp\Lab2CSharp\obj\Debug\Lab2CSharp.pdb
